@@ -1,0 +1,12 @@
+101;Standard;Ikhram Fahrezi;3;Check-In
+102;Deluxe;Budi;2;Booked
+103;Suite;Andi;5;Check-Out
+104;Standard;Rina;1;Booked
+105;Deluxe;Siti;4;Check-In
+106;Suite;Dewi;2;Booked
+107;Standard;Fajar;3;Check-In
+108;Deluxe;Nadia;2;Check-Out
+109;Suite;Rudi;6;Booked
+110;Standard;Aisyah;1;Check-In
+111;Suite;Samsudin;4;Kosong
+112;Deluxe;Anggres;2;Kosong
