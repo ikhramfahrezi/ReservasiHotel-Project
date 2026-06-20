@@ -16,18 +16,18 @@ Aplikasi ini sudah memenuhi spesifikasi teknis wajib, meliputi:
 ## 📂 Struktur Direktori
 Project ini dipisahkan menjadi beberapa *package* agar menyerupai arsitektur yang baik (Model & Main):
 ```text
-📁 ReservasiHotel_Project        <-- Folder Utama Project NetBeans
+📁 ReservasiHotel_Project        
 │
-├── 📁 nbproject                 <-- (Bawaan NetBeans, biarin aja)
-├── 📁 build                     <-- (Bawaan NetBeans, biarin aja)
+├── 📁 nbproject                 
+├── 📁 build                    
 │
-├── 📁 src                       <-- Di sini lu naruh semua Source Code (Penting!)
-│   └── 📁 reservasi             <-- Package Utama
+├── 📁 src                       
+│   └── 📁 reservasi             
 │       │
-│       ├── 📁 model             <-- Package khusus untuk Class Objek
+│       ├── 📁 model             
 │       │   └── 📄 Kamar.java    
 │       │
-│       └── 📁 main              <-- Package khusus untuk Class Utama/Program Jalan
+│       └── 📁 main              
 │           └── 📄 ReservasiHotel.java
 │
-└── 📄 data_hotel_NIM_LU.txt     <-- File teks otomatis terbuat di sini (Root folder)
+└── 📄 data_hotel_NIM_LU.txt     
