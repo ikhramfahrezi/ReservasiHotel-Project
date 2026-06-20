@@ -35,7 +35,7 @@ Project ini dipisahkan menjadi beberapa *package* agar menyerupai arsitektur yan
 🛠️ Cara Menjalankan Aplikasi
 1. Clone repository ini ke komputer Anda:
 Bash
-git clone [https://github.com/username-kamu/nama-repo-kamu.git](https://github.com/username-kamu/nama-repo-kamu.git)
+https://github.com/ikhramfahrezi/ReservasiHotel-Project.git
 2. Buka project menggunakan IDE (disarankan Apache NetBeans).
 3. Jalankan file ReservasiHotel.java yang berada di dalam package reservasi.main.
 4. Ikuti instruksi menu pada jendela Output console. 
